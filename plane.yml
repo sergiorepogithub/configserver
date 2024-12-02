@@ -1,0 +1,2 @@
+plane:
+  condition: "Status OK"
