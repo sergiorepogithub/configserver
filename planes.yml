@@ -1,2 +1,2 @@
 planes:
- condition: "GitHub Status webhook OK"
+ condition: "GitHub Status"
