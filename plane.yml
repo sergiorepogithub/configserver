@@ -1,2 +1,3 @@
 plane:
-  condition: "Status OK"
+  condition: "GitHub Status OK"
+ 
